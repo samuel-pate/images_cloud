@@ -8,4 +8,4 @@ permet de réduire le nombre de dimensions tout en conservant la grande majorit�
 Le notebook présente l'ACP sur un échantillon à partir de laquelle le choix de 50 composantes principales est retenu.  
 Le programme d'amorçage et le programme de traitement des images en clacul distribué (Spark) y sont présentés ensuite.  
 Ces programmes ont tourné sur un cluster EMR de AWS lié à un stockage S3. 
-Ce stockage S3 est public et accessible à l'adresse https://samuel-pate-projet-8.s3.us-east-2.amazonaws.com/.
+Ce stockage S3 est public et accessible avec le nom arn:aws:s3:::samuel-pate-projet-8.
